@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-06-02T15:11:22.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36 Edg/80.0.361.109" etag="JF5xjTr-B-KJi_9nWvyt" version="13.1.5" type="github"><diagram id="3mbiB0WYOFj8eaK2p7Ln" name="第 1 页">7VnBctowEP0apqcwloUxHANJmkPSZJpD26OwF6NGWK4sEujXV7JkbGMTnASGkCkXvM+rlfX0drWGDh7Pl18FSWa3PATWcZ1w2cEXHddFaNBXXxpZGcTHvgEiQUPrVAAP9C9Y0LHogoaQVhwl50zSpAoGPI4hkBWMCMGfq25TzqqzJiSCGvAQEFZHf9BQzgw6cP0CvwYazfKZUX9o7sxJ7mxXks5IyJ9LEL7s4LHgXJqr+XIMTJOX82LGXW25u34wAbFsMwB+8tvLxbWvqbqn3/7gO4TPPBPlibCFXXAHn99NfmsqzVPLVU7FTM6ZukIdPEo4jWXGrDfqeBcaAUHnIEEokAs54xGPCbsv0JFaf6IjLebshk6B0Rj0OCIkDWhCskUwMlH6waMpj+UVmVOmVXMN7AmUE7E3rEiQa+0xZ1xkj4id7KNwwmgUKyxQ5JjZpeCP0OQ6pYyV8Gn2UbiAYCFS+gTfITUzam9FniTq0YVlIuCMkSSlE5Z7WEZBSFhu3Sq0FoDKHOCKI7FSLnYAtpKxOYNy+7lQoOvYrZuV1IdzR2JVH61DF8JQF1Ybr9CJX9fJnuXRirbtGt7KZc+rcjmsc5nXmjKVvUMxOagxmQKb6gpG9OANUiFU1ciaBW+XBToq0Z6LnsFUasknJKBxdJNZFzpbIA7PdU1U5oTx4FGrnC/iEEKrXUW0WP204TLjV0XV+nGqtZiICF7aHP99myiAEalysFrXG/bEDr3Xyis239tIJH9jV1O+EAHYQcXGKpLIquRm9bx1Gt9rnKaQiQlYiGa9wrfraPhZMnLQLiEHh0rIfLISk/U8/KBUYrdC5VrvZS4bzonDcYlqXIZU1SEZzF6iVBOjznd2bgvYhEvJ59mprdqDvGRxFbW5iGVuti0YvKNY5VI4UrU6Q17zdu4oV/sqKcit15T/3eDRu0HX390OIqehZB6uHUT4A58+RsYn0xCiXo3LU+4IW25Pm2qMD1JlP3FPiBpe5080LY/eFdbfeD9QJ7PHJOt/zlamf7qZgBy/mbuj5UL9N4voSwp7y4MMu6IsH9wiL2BJZXYqdRHG1s4Opq7neta+WOZnmDZWJaO0jdVD7szpupVzrushnANFvMxala3NiC3y1kImEV5i33lnKpdk07ex3pnd627TKrTntsvuWiDc3xHILPpgZcJt0ceW1MgTiDc1HFARMLhni9Qo1+rY2dC1UUpYknApW3I1O93ecFBRs/92LSvtVqU88L0jS9lrq+Qt79flArgvKW+0g2tFvlrKaEegN0tZmcW/RMa9+K8NX/4D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-02T15:12:59.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36 Edg/80.0.361.109" etag="REbzoKU_DzDxivhN8whf" version="13.1.5" type="github">
+  <diagram id="3mbiB0WYOFj8eaK2p7Ln" name="第 1 页">
+    <mxGraphModel dx="1186" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eXoMEuH70conPiNq3O13-5" value=":Object" style="html=1;points=[];perimeter=orthogonalPerimeter;shape=umlLifeline;participant=label;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;recursiveResize=0;container=1;collapsible=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="130" width="205" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eXoMEuH70conPiNq3O13-5" vertex="1">
+          <mxGeometry x="45" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-8" value="self call" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="eXoMEuH70conPiNq3O13-5" target="eXoMEuH70conPiNq3O13-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eXoMEuH70conPiNq3O13-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-10" value="l" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eXoMEuH70conPiNq3O13-5" vertex="1">
+          <mxGeometry x="32" y="250" width="15" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-11" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="eXoMEuH70conPiNq3O13-5" target="eXoMEuH70conPiNq3O13-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-12" value=":Object" style="html=1;points=[];perimeter=orthogonalPerimeter;shape=umlLifeline;participant=label;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;recursiveResize=0;container=1;collapsible=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="130" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eXoMEuH70conPiNq3O13-12" vertex="1">
+          <mxGeometry x="45" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-14" value="self call" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="eXoMEuH70conPiNq3O13-12" target="eXoMEuH70conPiNq3O13-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eXoMEuH70conPiNq3O13-12" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-17" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="eXoMEuH70conPiNq3O13-12" target="eXoMEuH70conPiNq3O13-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eXoMEuH70conPiNq3O13-12" vertex="1">
+          <mxGeometry x="107" y="250" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-18" value="g&#39;se" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.133;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eXoMEuH70conPiNq3O13-10" target="eXoMEuH70conPiNq3O13-16" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="100" y="420" as="sourcePoint" />
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXoMEuH70conPiNq3O13-23" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;exitX=0.498;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eXoMEuH70conPiNq3O13-5" target="eXoMEuH70conPiNq3O13-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
